@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>2946069482-vs97ps4s2f1ac0aa69tphajm060vhdv7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.2946069482-vs97ps4s2f1ac0aa69tphajm060vhdv7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAhQotBalCZqRrO8FK1XY2vYmn-X_hD1KM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>2946069482</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.terry.MyNetflix</string>
+	<key>PROJECT_ID</key>
+	<string>myapp-6c0ed</string>
+	<key>STORAGE_BUCKET</key>
+	<string>myapp-6c0ed.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:2946069482:ios:1e09438ebf551f22083893</string>
+	<key>DATABASE_URL</key>
+	<string>https://myapp-6c0ed.firebaseio.com</string>
+</dict>
+</plist>
