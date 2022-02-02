@@ -9,7 +9,7 @@
 import UIKit
 import Kingfisher
 import AVFoundation
-import Firebase
+import FirebaseDatabase
 
 class SearchViewController: UIViewController {
 
